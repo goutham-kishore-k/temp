@@ -1,1 +1,5 @@
+flask
 gunicorn
+tensorflow
+numpy
+Pillow
